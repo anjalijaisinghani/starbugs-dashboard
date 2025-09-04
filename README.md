@@ -34,5 +34,4 @@ This dashboard provides insights into sales trends, customer distribution, and p
 
 ## 👩‍💻 Author
 Designed & Developed by **Anjali Anil Jaisinghani** ✨
-## 👩‍💻 Author
-Designed & Developed by **Anjali Anil Jaisinghani** ✨
+
